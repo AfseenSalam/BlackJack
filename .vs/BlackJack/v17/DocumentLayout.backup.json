@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web Application\\BlackJack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|d:\\web application\\blackjack\\controllers\\deckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|solutionrelative:controllers\\deckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|d:\\web application\\blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|d:\\web application\\blackjack\\models\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|solutionrelative:models\\gamestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|d:\\web application\\blackjack\\services\\deckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|solutionrelative:services\\deckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|d:\\web application\\blackjack\\models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8FB535-0A52-4EDF-B200-91C8A95E7430}|BlackJack.csproj|solutionrelative:models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeckController.cs",
+              "DocumentMoniker": "D:\\Web Application\\BlackJack\\Controllers\\DeckController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeckController.cs",
+              "ToolTip": "D:\\Web Application\\BlackJack\\Controllers\\DeckController.cs",
+              "RelativeToolTip": "Controllers\\DeckController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:59:29.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web Application\\BlackJack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Web Application\\BlackJack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:54:51.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeckService.cs",
+              "DocumentMoniker": "D:\\Web Application\\BlackJack\\Services\\DeckService.cs",
+              "RelativeDocumentMoniker": "Services\\DeckService.cs",
+              "ToolTip": "D:\\Web Application\\BlackJack\\Services\\DeckService.cs",
+              "RelativeToolTip": "Services\\DeckService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:54:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeckModel.cs",
+              "DocumentMoniker": "D:\\Web Application\\BlackJack\\Models\\DeckModel.cs",
+              "RelativeDocumentMoniker": "Models\\DeckModel.cs",
+              "ToolTip": "D:\\Web Application\\BlackJack\\Models\\DeckModel.cs",
+              "RelativeToolTip": "Models\\DeckModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:50:04.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameStatus.cs",
+              "DocumentMoniker": "D:\\Web Application\\BlackJack\\Models\\GameStatus.cs",
+              "RelativeDocumentMoniker": "Models\\GameStatus.cs",
+              "ToolTip": "D:\\Web Application\\BlackJack\\Models\\GameStatus.cs",
+              "RelativeToolTip": "Models\\GameStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:41:54.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
